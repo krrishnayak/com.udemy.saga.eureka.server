@@ -8,7 +8,7 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.krish.microservices.saga.</groupId>
+	<groupId>org.krish.microservices.saga</groupId>
 	<artifactId>org.krish.microservices.saga.eureka.server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Eureka Server Implementation</name>
